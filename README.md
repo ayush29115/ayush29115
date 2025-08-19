@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm ayush kumar</h1>
-<h3 align="center">A passionate data science engineer from India</h3>
+<h3 align="center">A passionate data analytics from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush29115&label=Profile%20views&color=0e75b6&style=flat" alt="ayush29115" /> </p>
 
